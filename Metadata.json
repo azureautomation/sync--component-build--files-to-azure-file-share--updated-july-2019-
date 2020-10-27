@@ -1,7 +1,7 @@
 {
     "Author": "Ben Wilkinson",
     "ContentSize": 4456,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sync-(component-build)-files-to-azure-file-share-(updated-july-2019)/master/Sync-AzureFileShareBuildComponent.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sync--component-build--files-to-azure-file-share--updated-july-2019-/master/Sync-AzureFileShareBuildComponent.ps1",
     "DownloadCount": 531,
     "Id": "Sync-Build-Files-to-Azure-5ae03950",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This script does the following:1) Connects to an Azure Storage Account, using a Service Principal or User account that is currently logged in2) Using a local Directory it will look at that directory, then will check the Files and Directories in a specified component build directo",
     "Title": "Sync (Component Build) Files to Azure File Share (updated July 2019)",
     "UpdatedDate": "2019-8-7T00:00:00",
-    "Url": "https://github.com/azureautomation/sync-(component-build)-files-to-azure-file-share-(updated-july-2019)",
+    "Url": "https://github.com/azureautomation/sync--component-build--files-to-azure-file-share--updated-july-2019-",
     "UserTags": "azure storage, Azure File Share, Sync Files"
 }
